@@ -6,4 +6,4 @@ Introducing FriendFinder. This is an application where you fill out a quick surv
 
 The application uses javascript, and uses express and path to create the application to match you to your perfect friend! 
 
-![Screenshot 1](/images/Screen Shot 2019-03-03 at 10.27.21 PM)
+![Screenshot 1](/images/screenshot1.png)
